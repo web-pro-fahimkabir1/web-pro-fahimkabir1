@@ -6,7 +6,7 @@ I am a dedicated and results-driven Computer Science and Engineering (CSE) gradu
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this REACT. 
 - 🌱 I’m currently learning MERN 
 
 
