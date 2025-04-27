@@ -4,7 +4,7 @@
 
 I am a dedicated and results-driven Computer Science and Engineering (CSE) graduate with a Bachelor of Science (BSC) degree. I have developed proficiency in programming languages like C, C++, and Java, as well as web development technologies including HTML, CSS,JavaScript,React ,Next.js and Node.js. Eager to contribute to innovative projects and leverage my skills in a dynamic, growth-oriented engineering role.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: NEXT.JS / REACT / NODE.JS / JAVASCRIPT / HTML / CSS
 
 - 🔭 I’m currently working on this REACT. 
 - 🌱 I’m currently learning MERN 
