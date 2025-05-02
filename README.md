@@ -2,7 +2,7 @@
 #### I am a MERN stack WEB developer
 ![I am a MERN stack WEB developer](https://media.licdn.com/dms/image/v2/D5616AQFNub8hiYxZoA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731083728820?e=1749081600&v=beta&t=tRV1g_dkpmKUHv_gBNRoe2cru_4ZGsfScdPcd20-e1M)
 
-I am a dedicated and results-driven Computer Science and Engineering (CSE) graduate with a Bachelor of Science (BSC) degree. I have developed proficiency in programming languages like C, C++, and Java, as well as web development technologies including HTML, CSS,JavaScript,React ,Next.js and Node.js. Eager to contribute to innovative projects and leverage my skills in a dynamic, growth-oriented engineering role.
+💻 I specialize in building interactive web applications using React, Node.js, Express.js, MongoDB, and Firebase. With expertise in backend development and state management, I’m always striving to optimize user experiences. Outside of coding, I enjoy playing cricket and helping others solve problems..
 
 Skills: NEXT.JS / REACT / NODE.JS / JAVASCRIPT / HTML / CSS
 
