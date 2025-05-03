@@ -28,6 +28,10 @@ I specialize in building interactive web applications using React, Node.js, Expr
  ![Static Badge](https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%236495ED)
  ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white&logoSize=auto&labelColor=yellow&color=%234682B4)
 
+https://img.shields.io/badge/Node.js-%2322CC00?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&labelColor=%2322CC00&color=%2322CC00
+https://img.shields.io/badge/Express.js-%23008099?style=for-the-badge&logo=Express&logoColor=white&logoSize=auto&labelColor=%23332200&color=%230077B3
+https://img.shields.io/badge/Redux.js-%23660099?style=for-the-badge&logo=redux&logoColor=white&logoSize=auto&labelColor=%23660099&color=%23660099
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -39,6 +43,8 @@ I specialize in building interactive web applications using React, Node.js, Expr
 ![GitHub metrics](https://metrics.lecoq.io/web-pro-fahimkabir1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-pro-fahimkabir1)  
+![Static Badge](https://img.shields.io/badge/MongoDB-%23660099?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=auto&labelColor=%23009900&color=%23009900)
+
 
 
 
