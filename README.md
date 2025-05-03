@@ -1,8 +1,8 @@
 
 ![I am a MERN stack WEB developer](https://media.licdn.com/dms/image/v2/D5616AQFNub8hiYxZoA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731083728820?e=1749081600&v=beta&t=tRV1g_dkpmKUHv_gBNRoe2cru_4ZGsfScdPcd20-e1M)
 
- # Hi there 👋, I’m Fahim Kabir
-#### Turning concepts into functional web solutions with the MERN stack  
+ <h1 align="center">Hi there 👋, I’m Fahim Kabir</h1>
+<h3 align="center">Turning concepts into functional web solutions with the MERN stack  </h3>
 
 ## About Me
 I specialize in building interactive web applications using React, Node.js, Express.js, MongoDB, and Firebase. With expertise in backend development and state management, I’m always striving to optimize user experiences. Outside of coding, I enjoy playing cricket and helping others solve problems..
