@@ -11,7 +11,8 @@ Skills: NEXT.JS / REACT / NODE.JS / JAVASCRIPT / HTML / CSS
 
 - 🔭 I’m currently working on this REACT. 
 - 🌱 I’m currently learning MERN 
-
+- 💬 Ask me about Ask me about Next.js ,React, JavaScript, MongoDB
+- ⚡ Fun fact I like to think of myself as funny, helpful, and always honest.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/web-pro-fahimkabir1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/fahim-kabir-3b6a66153/)  
 
