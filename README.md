@@ -27,23 +27,26 @@ I specialize in building interactive web applications using React, Node.js, Expr
 ![Static Badge](https://img.shields.io/badge/Next.JS-00008B?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto&labelColor=%2339FF14&color=%23BAB86C&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/JavaScript-%23FFEA00?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto&labelColor=black&color=%23FFEA00&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2300FFFF?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&logoSize=auto&labelColor=%231034A6&color=%2300FFFF&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/bootstrap-%234B0082?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%234B0082)
  ![Static Badge](https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%236495ED)
  ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white&logoSize=auto&labelColor=yellow&color=%234682B4)
+ 
+ ![Static Badge](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=auto&labelColor=blue&color=black)
+ ![Static Badge](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=auto&labelColor=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExpress.js-black%3Fstyle%3Dfor-the-badge%26logo%3DMongoDB%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3Dblue%26color%3D%25231A0099)&color=%231A0099)
+![Static Badge](https://img.shields.io/badge/Redux.js-black?style=for-the-badge&logo=redux&logoColor=white&logoSize=auto&labelColor=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExpress.js-black%3Fstyle%3Dfor-the-badge%26logo%3DMongoDB%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3Dblue%26color%3D%25231A0099)&color=%234DE1FF)
 
-https://img.shields.io/badge/Node.js-%2322CC00?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&labelColor=%2322CC00&color=%2322CC00
-https://img.shields.io/badge/Express.js-%23008099?style=for-the-badge&logo=Express&logoColor=white&logoSize=auto&labelColor=%23332200&color=%230077B3
-https://img.shields.io/badge/Redux.js-%23660099?style=for-the-badge&logo=redux&logoColor=white&logoSize=auto&labelColor=%23660099&color=%23660099
+![Static Badge](https://img.shields.io/badge/MongoDB-%23660099?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=auto&labelColor=%23009900&color=%23009900)
+
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-pro-fahimkabir1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=web-pro-fahimkabir1&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/web-pro-fahimkabir1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-pro-fahimkabir1)  
-![Static Badge](https://img.shields.io/badge/MongoDB-%23660099?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=auto&labelColor=%23009900&color=%23009900)
+
 
 
 
