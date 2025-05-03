@@ -4,7 +4,7 @@
  # Hi there 👋, I’m Fahim Kabir
 #### Turning concepts into functional web solutions with the MERN stack  
 
-##About Me
+## About Me
 I specialize in building interactive web applications using React, Node.js, Express.js, MongoDB, and Firebase. With expertise in backend development and state management, I’m always striving to optimize user experiences. Outside of coding, I enjoy playing cricket and helping others solve problems..
 
 ![Static Badge](https://img.shields.io/badge/522-green?style=for-the-badge&logo=views&logoColor=white&logoSize=auto&label=Profiles-Views&labelColor=%236495ED&color=%234B0082)
