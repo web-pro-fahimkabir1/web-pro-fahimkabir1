@@ -27,4 +27,5 @@ Skills: NEXT.JS / REACT / NODE.JS / JAVASCRIPT / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-pro-fahimkabir1)  
 
 
-
+Things I code with
+Javascript Badge Typescript Badge React Badge Next.js Badge Nodejs Badge Express.js Badge MongoDB Badge GraphQL Badge SASS Badge Tailwind Badge VSCode Badge Git Badge
