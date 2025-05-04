@@ -58,6 +58,8 @@ I specialize in building interactive web applications using React, Node.js, Expr
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=web-pro-fahimkabir1)  
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/web-pro-fahimkabir1/contributions?format=svg&private=false)  
+
 
 
 
