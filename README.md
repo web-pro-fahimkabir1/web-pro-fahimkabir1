@@ -23,7 +23,7 @@ I specialize in building interactive web applications using React, Node.js, Expr
 - ⚡ Fun fact: I like to think of myself as funny, helpful, and always honest.
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 
 <h2 align="left">Frontend:</h2> 
 
