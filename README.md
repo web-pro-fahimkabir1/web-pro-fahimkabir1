@@ -13,6 +13,7 @@ I specialize in building interactive web applications using React, Node.js, Expr
 #### ☕  Connect with me!
 ![Static Badge](https://img.shields.io/badge/Linkedin-61DBFB?style=for-the-badge&logo=linkedin&logoSize=auto&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffahim-kabir-3b6a66153%2F) ![Static Badge](https://img.shields.io/badge/Facbook-7fea0b?style=for-the-badge&logo=Facbook&logoSize=auto&labelColor=black&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100015555360318) ![Static Badge](https://img.shields.io/badge/Gmail-2b0bea?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=red&color=2b0bea&link=fahim154643%40gmail.com) ![Static Badge](https://img.shields.io/badge/Github-%20f4109b?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=f4109b&color=f4109b&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1)
 
+<img align="right" width="400px" height="280px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg1cDJ2dXgzeThxdGZ5bzk3MTZyOTJobmJwd3R1NmpkeXEwazhlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" />
 
 - 🔭 I’m currently working on this Next.js and React 
 - 🌱 I’m currently learning MERN
