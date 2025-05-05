@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## About Me
-I specialize in building interactive web applications using React, Node.js, Express.js, MongoDB, and Firebase. With expertise in backend development and state management, I’m always striving to optimize user experiences. Outside of coding, I enjoy playing cricket and helping others solve problems..
+I specialize in building interactive web applications using React, Node.js, Next.js, MongoDB, and Firebase. With expertise in backend development and state management, I’m always striving to optimize user experiences. Outside of coding, I enjoy playing cricket and helping others solve problems..
   
 #### ☕  Connect with me!
 
