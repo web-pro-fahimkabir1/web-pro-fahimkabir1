@@ -58,16 +58,14 @@ I specialize in building interactive web applications using React, Node.js, Next
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=web-pro-fahimkabir1&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/web-pro-fahimkabir1)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=web-pro-fahimkabir1)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/web-pro-fahimkabir1/contributions?format=svg&private=false)  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/web-pro-fahimkabir1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="web-pro-fahimkabir1" /></a></p>
 
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=web-pro-fahimkabir1)    
 
 
 
