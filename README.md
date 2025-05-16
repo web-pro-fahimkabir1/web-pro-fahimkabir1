@@ -31,13 +31,19 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 
 <h2 align="left">Frontend:</h2> 
 
-![Static Badge](https://img.shields.io/badge/React-%2373C2FB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=black&color=%2373C2FB&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1)
-![Static Badge](https://img.shields.io/badge/Next.JS-00008B?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto&labelColor=%2339FF14&color=%23BAB86C&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1)  
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2300FFFF?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&logoSize=auto&labelColor=%231034A6&color=%2300FFFF&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/bootstrap-%234B0082?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%234B0082)
- ![Static Badge](https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%236495ED)
- ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white&logoSize=auto&labelColor=yellow&color=%234682B4)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
  
  <h2 align="left">Backend:</h2>
  
