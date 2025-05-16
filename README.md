@@ -32,7 +32,10 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 <h2 align="left">Frontend:</h2> 
 
 ![Static Badge](https://img.shields.io/badge/React-%2373C2FB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=black&color=%2373C2FB&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1)
-![Static Badge](https://img.shields.io/badge/Next.JS-00008B?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto&labelColor=%2339FF14&color=%23BAB86C&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/JavaScript-%23FFEA00?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto&labelColor=black&color=%23FFEA00&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2300FFFF?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&logoSize=auto&labelColor=%231034A6&color=%2300FFFF&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/bootstrap-%234B0082?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%234B0082)
+![Static Badge](https://img.shields.io/badge/Next.JS-00008B?style=for-the-badge&logo=next.js&logoColor=white&logoSize=auto&labelColor=%2339FF14&color=%23BAB86C&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1)  
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2300FFFF?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&logoSize=auto&labelColor=%231034A6&color=%2300FFFF&link=https%3A%2F%2Fgithub.com%2Fweb-pro-fahimkabir1) ![Static Badge](https://img.shields.io/badge/bootstrap-%234B0082?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%234B0082)
  ![Static Badge](https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%236495ED&color=%236495ED)
  ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white&logoSize=auto&labelColor=yellow&color=%234682B4)
  
