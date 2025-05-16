@@ -30,6 +30,7 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 <h2 align="left"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 
 <h2 align="left">Frontend:</h2> 
+
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
