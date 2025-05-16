@@ -30,21 +30,16 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 <h2 align="left"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 
 <h2 align="left">Frontend:</h2> 
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
- 
  <h2 align="left">Backend:</h2>
  
  ![Static Badge](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=auto&labelColor=blue&color=black)
@@ -57,6 +52,7 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 
 ![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&labelColor=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExpress.js-black%3Fstyle%3Dfor-the-badge%26logo%3DMongoDB%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3Dblue%26color%3D%25231A0099)&color=%235900B3)
 ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExpress.js-black%3Fstyle%3Dfor-the-badge%26logo%3DMongoDB%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3Dblue%26color%3D%25231A0099)&color=%235D8AA8) ![Static Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=black&logoSize=auto&labelColor=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExpress.js-black%3Fstyle%3Dfor-the-badge%26logo%3DMongoDB%26logoColor%3Dwhite%26logoSize%3Dauto%26labelColor%3Dblue%26color%3D%25231A0099)&color=%234DC3FF)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
 
