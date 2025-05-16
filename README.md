@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Fahim Kabir</h1>
 <h3 align="center">Turning concepts into functional web solutions with the MERN stack</h3>
 
+<li>📧 Email me at mdfeeham@gmail.com</li>
+<li>📑 See my resume to know more about my skills & Experience</li>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-pro-fahimkabir1&label=Profile%20views&color=0e75b6&style=flat" alt="web-pro-fahimkabir1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-pro-fahimkabir1" alt="web-pro-fahimkabir1" /></a> </p>
