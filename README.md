@@ -2,7 +2,7 @@
 <p>...</p>
 
 
-<h1 align="center">Hi 👋, I'm Fahim Kabir</h1>
+<h1 align="center" color="red" >Hi 👋, I'm Fahim Kabir</h1>
 <h3 align="center">Turning concepts into functional web solutions with the MERN stack</h3>
 
 <li>📧 Email me at fahim154643@gmail.com</li>
