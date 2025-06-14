@@ -1,5 +1,5 @@
 <img align="right" src="https://github.com/web-pro-fahimkabir1/web-pro-fahimkabir1/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true" />
-<p color="blue">....</p>
+<p color="blue"></p>
 
 
 <h1 align="center"  >Hi 👋, I'm Fahim Kabir</h1>
