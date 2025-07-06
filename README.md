@@ -76,7 +76,9 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 </p>
 
 <p align="left" height="250px">
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/web-pro-fahimkabir1/contributions?format=svg&private=false)  
+  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/web-pro-fahimkabir1/contributions?format=svg&private=false) 
+
 </p>
 
 <h3 align="left">Support:</h3>
