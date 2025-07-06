@@ -65,6 +65,11 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-pro-fahimkabir1)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/web-pro-fahimkabir1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=web-pro-fahimkabir1&theme=radical" alt="Fahim's GitHub Contribution"/>
+  </a>
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=web-pro-fahimkabir1&show_icons=true)  
 
