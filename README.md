@@ -75,11 +75,7 @@ I build interactive web applications using React, Node.js, Next.js, MongoDB, and
   </a>
 </p>
 
-<p align="left" height="250px">
-  
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/web-pro-fahimkabir1/contributions?format=svg&private=false) 
 
-</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/web-pro-fahimkabir1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="web-pro-fahimkabir1" /></a></p>
